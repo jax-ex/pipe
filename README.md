@@ -187,11 +187,11 @@ Most of my code/inpiration came from looking at an older version of Plug:
 https://github.com/elixir-plug/plug/tree/v0.3.0
 
 Here are various blog posts that where borrowed from or used as refreshers:
-https://elixir-lang.org/getting-started/meta/domain-specific-languages.html#building-our-own-test-case
-https://blog.janfornoff.com/elixir-macros-2/
-https://elixirschool.com/en/lessons/advanced/metaprogramming/
-https://medium.com/@kansi/elixir-plug-unveiled-bf354e364641
-https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir
+- https://elixir-lang.org/getting-started/meta/domain-specific-languages.html#building-our-own-test-case
+- https://blog.janfornoff.com/elixir-macros-2/
+- https://elixirschool.com/en/lessons/advanced/metaprogramming/
+- https://medium.com/@kansi/elixir-plug-unveiled-bf354e364641
+- https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir
 
 ### SPECIAL NOTICE:
 Plug has no tests for guards, this is a great opportunity to contribute to Plug:
